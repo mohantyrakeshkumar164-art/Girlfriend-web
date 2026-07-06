@@ -1,0 +1,15 @@
+.couple-image{
+
+    width:100%;
+
+    height:300px;
+
+    object-fit:cover;
+
+    border-radius:15px;
+
+    margin:20px 0;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.25);
+
+}
